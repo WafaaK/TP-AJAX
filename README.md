@@ -54,7 +54,7 @@ Ensuite, voici la liste des:
 
 Filtrage de machines par marque:
 
-<img width="551" alt="qa" src="https://github.com/WafaaK/TP-AJAX/assets/147450674/1c0e170d-4d83-4146-be5f-af5f5313b827">
+<img width="571" alt="lib" src="https://github.com/WafaaK/TP-AJAX/assets/147450674/3818d6cf-54cb-4ea7-aa7b-cd7615d56ff6">
 
 <img width="488" alt="bymachine" src="https://github.com/WafaaK/TP-AJAX/assets/147450674/bb430a6d-d912-48f4-8786-d511be2e765d">
 
