@@ -1,0 +1,47 @@
+fieldset  {
+    width: 50%;
+    margin: auto;
+}
+/* Styles pour le tableau */
+.tab {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial;
+    background-color: #f5f5f5; /* Couleur de fond pour le tableau */
+}
+
+/* Styles pour toutes les lignes du tableau */
+.tab tr {
+    font-family: Arial;
+}
+
+/* Styles pour les cellules du tableau */
+.tab td, .tab th {
+    border: 1px solid #ddd; /* Bordures plus légères */
+    padding: 8px; /* Espacement des cellules réduit */
+    text-align: center; /* Centrage du contenu */
+}
+
+/* Styles pour les lignes impaires du tableau */
+.tab tr:nth-child(odd) {
+    background-color: #e6e6e6; /* Couleur de fond des lignes impaires */
+}
+
+/* Styles pour les boutons de mise à jour et de suppression */
+.bnupdate, .bndelete {
+    background-color: #4CAF50; /* Couleur de fond */
+    border: none;
+    color: white;
+    padding: 10px 15px; /* Espacement du texte dans les boutons */
+    font-family: Arial;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; /* Taille de la police légèrement augmentée */
+    margin: 5px; /* Marge entre les boutons */
+}
+
+/* Style au survol des boutons */
+.bnupdate:hover, .bndelete:hover {
+    background-color: #45a049; /* Couleur de fond au survol */
+}
